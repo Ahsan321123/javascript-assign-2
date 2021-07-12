@@ -1,3 +1,6 @@
+
+// CHAPTER # 21-25
+// JAVASCRIPT
 // STRING METHODS
 
 
@@ -50,6 +53,10 @@ word “Pakistani” and display the result in your browser.*/
 // document.getElementById("pera").innerHTML=a
 // document.getElementById("pera2").innerHTML=b
 
+
+
+// CHAPTER # 26-30
+// JAVASCRIPT
 // MATH METHODS
 
 /**1. Write a program that takes a positive integer from user &
@@ -174,6 +181,9 @@ between 1 and 10. If the user inp */
 //   else
 //    console.log('Not matched, the number was '+gnum);
 
+
+
+// chapters # 31-34
 // DATE METHODS
 
 
@@ -272,7 +282,7 @@ alert “Its AM” else “its PM” */
 
 
 
-
+// chapters # 35-38
 // FUNCTIONS
 
 
@@ -435,6 +445,9 @@ EXPECTED OUTPUT : 'The Quick Brown Fo */
 // console.log(uppercase("the quick brown fox"));
 
 
+
+// CHAPTER# 38-44
+// JAVASCRIPT
 // FUNCTIONS, SWITCH
 // STATEMENTS, WHILE… DOWHILE LOOPS 
 
